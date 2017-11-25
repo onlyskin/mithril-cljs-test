@@ -7,3 +7,6 @@ mithril Component in ClojureScript.
 
 ## To run the tests and build the output files: (you may need to create directory `js` first)
 ```lein cljsbuild auto```
+
+## d3.js example
+Checkout the branch `d3` to see a basic example using d3, mithril, and ClojureScript
